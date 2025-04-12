@@ -1,5 +1,5 @@
 # Packet-Tracer-Project
-This project has been implemented with Cisco Packet Tracer phisically and logically. 
+This project has been implemented with Cisco Packet Tracer in both phisically and logically manner. 
 In this project 3 buildings of A, B, C have a network design with following aspects.
 Building A has 4 departments, each with 3 computers.
 Building A has 3 departments, each with 5 computers.
